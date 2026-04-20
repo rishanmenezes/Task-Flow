@@ -47,24 +47,6 @@ A modern, full-stack task management application built with the MERN stack. Feat
 
 ---
 
-## 📷 Screenshots
-
-<details>
-<summary>Click to expand screenshots</summary>
-
-### Login Page
-<!-- Add screenshot: ![Login](./screenshots/login.png) -->
-
-### Signup Page
-<!-- Add screenshot: ![Signup](./screenshots/signup.png) -->
-
-### Dashboard
-<!-- Add screenshot: ![Dashboard](./screenshots/dashboard.png) -->
-
-</details>
-
----
-
 ## 📁 Project Structure
 
 ```
